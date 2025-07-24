@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently a **2nd-year Computer Science student** at **Madras Institute of Technology (MIT), Anna University**.
+- 🎓 I'm currently a **3rd-year Computer Science student** at **Madras Institute of Technology (MIT), Anna University**.
 - 💡 I'm deeply interested in **Web Development**, **DSA**, **System Design**, and **low-level programming** in C/C++.
 - 🌐 Currently building a **chat app** using **MERN Stack + TailwindCSS**, with **violet, pink, and blue** themes.
 - 💼 Preparing for top tech internships — **Amazon, Google, Adobe, PayPal, Accenture**, etc.
