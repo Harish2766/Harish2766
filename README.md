@@ -1,6 +1,6 @@
 <!-- GitHub README for Harish Kumar -->
 
-<h1 align="center">Hi there 👋, I'm Harish Kumar</h1>
+<h1 align="center">Hi there 👋, I'm Harish G S</h1>
 <h3 align="center">A Passionate Computer Science Engineer from MIT, Anna University</h3>
 
 <p align="center">
