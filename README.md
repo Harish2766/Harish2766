@@ -13,11 +13,8 @@
 
 - 🎓 I'm currently a **3rd-year Computer Science student** at **Madras Institute of Technology (MIT), Anna University**.
 - 💡 I'm deeply interested in **Web Development**, **DSA**, **System Design**, and **low-level programming** in C/C++.
-- 🌐 Currently building a **chat app** using **MERN Stack + TailwindCSS**, with **violet, pink, and blue** themes.
-- 💼 Preparing for top tech internships — **Amazon, Google, Adobe, PayPal, Accenture**, etc.
+- 🌐 Currently building a **chat app** using **MERN Stack + TailwindCSS**.
 - 🧠 Actively solving problems on **LeetCode**, **GeeksforGeeks**, and learning advanced concepts in **DBMS**, **Networking**, and **Operating Systems**.
-- 🐶 Dog lover — I own a smart **German Shepherd**.
-- 🗣️ Learning **Japanese** and **German** out of curiosity and interest in global tech culture.
 
 ---
 
@@ -42,7 +39,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
