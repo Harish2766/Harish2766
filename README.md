@@ -74,14 +74,3 @@
 
 ---
 
-### 📚 Fun Facts
-
-- 🔧 Favorite IDE: VS Code with Dracula theme.
-- 🍜 Love Japanese culture and anime.
-- 🏃‍♂️ Workout enthusiast — evening workouts & clean diet.
-- ⚡ Fun fact: I can debug C code faster than I can make Maggi noodles!
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
-
