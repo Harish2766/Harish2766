@@ -1,68 +1,153 @@
-<!-- GitHub README for Harish Kumar -->
 
-<h1 align="center">Hi there 👋, I'm Harish G S</h1>
-<h3 align="center">A Passionate Computer Science Engineer from MIT, Anna University</h3>
+<!-- ========================================================================== -->
+<!--                         GITHUB PROFILE README                              -->
+<!--             Premium Dark Developer Aesthetic · Minimal · Modern            -->
+<!-- ========================================================================== -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harishkumarcse&label=Profile%20views&color=0e75b6&style=flat" alt="harishkumarcse" />
-</p>
+<div align="center">
 
----
+<!-- ──────────────────────────── HERO SECTION ──────────────────────────── -->
 
-### 🧑‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Hey%20there%20%F0%9F%91%8B%20I'm%20HARISH%20G%20S&fontSize=36&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Building%20the%20future,%20one%20commit%20at%20a%20time.&descSize=16&descAlignY=55&descColor=8b949e" width="100%" />
 
-- 🎓 I'm currently a **3rd-year Computer Science student** at **Madras Institute of Technology (MIT), Anna University**.
-- 💡 I'm deeply interested in **Web Development**, **DSA**, **System Design**, and **low-level programming** in C/C++.
-- 🌐 Currently building a **chat app** using **MERN Stack + TailwindCSS**.
-- 🧠 Actively solving problems on **LeetCode**, **GeeksforGeeks**, and learning advanced concepts in **DBMS**, **Networking**, and **Operating Systems**.
+<!-- Typing Animation -->
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+CS+Engineering+Student+%40+Anna+University;%F0%9F%92%BB+Full-Stack+Developer+%7C+Backend+Enthusiast;%F0%9F%9A%80+Building+scalable+%26+elegant+software" alt="Typing SVG" />
+</a>
 
-### 🛠️ Tech Stack
+<br/>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────── ABOUT ME ─────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+- 🎓 &nbsp; **𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 & 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝘂𝗱𝗲𝗻𝘁** @ **𝗔𝗻𝗻𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗖𝗵𝗲𝗻𝗻𝗮𝗶**
+- 📍 &nbsp; **𝗕𝗮𝘀𝗲𝗱 𝗶𝗻** **𝗡𝗮𝗺𝗮𝗸𝗸𝗮𝗹, 𝗧𝗮𝗺𝗶𝗹 𝗡𝗮𝗱𝘂, 𝗜𝗻𝗱𝗶𝗮**
+- 💻 &nbsp; **𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻** **𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴**
+- 🚀 &nbsp; **𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁** building **𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲, 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 & 𝗲𝗹𝗲𝗴𝗮𝗻𝘁 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲**
+- 🧠 &nbsp; **𝗘𝗻𝗷𝗼𝘆** **𝗽𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝗼𝗹𝘃𝗶𝗻𝗴**, learning new technologies & turning ideas into projects
+- ⚡ &nbsp; **𝗠𝗶𝗻𝗱𝘀𝗲𝘁:** `Learn → Build → Improve → Repeat`
+
+<br/>
+
+<!-- ─────────────────────────── TECH STACK ─────────────────────────── -->
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
 
 #### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-#### Web & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp&theme=dark" alt="Languages"/>
+</p>
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+#### Frontend
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind&theme=dark" alt="Frontend"/>
+</p>
 
----
+#### Backend
 
-### 🚀 Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=springboot,nodejs,express&theme=dark" alt="Backend"/>
+</p>
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 💬 **Chat App** | A real-time chat app for two users using MERN stack with a vibrant UI. | `React`, `Node.js`, `MongoDB`, `Socket.IO`, `TailwindCSS` |
-| 📊 **Student Dashboard** | A dashboard for college students to track assignments, attendance, and grades. | `Next.js`, `Firebase`, `Chart.js` |
-| 🔍 **Algo Visualizer** | Visualizes sorting/searching algorithms for beginners. | `HTML`, `CSS`, `JavaScript` |
+#### Databases
 
-➡️ Check out all projects in [My Repositories](https://github.com/harishkumarcse?tab=repositories)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle"/>
+</p>
 
----
+#### DevOps & Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,idea,postman&theme=dark" alt="DevOps & Tools"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bruno/FF6C37" width="48" height="48" alt="Bruno"/>
+</p>
 
+</div>
 
-### 📫 Connect with Me
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+<!-- ──────────────────── CODING PROFILES ──────────────────── -->
 
----
+## 🧩 &nbsp;Coding Profiles
 
+<div align="center">
+
+<p>
+
+  <a href="https://leetcode.com/u/harish_2766/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="55" height="55" alt="LeetCode"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/profile/skharish2766">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="55" height="55" alt="HackerRank"/>
+  </a>
+
+</p>
+
+</div>
+
+<br/>
+
+<!-- ──────────────────── LET'S CONNECT ──────────────────── -->
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+<p>
+
+  <a href="https://www.linkedin.com/in/harish-g-s-a6755b291/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="52" alt="LinkedIn"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:harishgs2766@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://web.whatsapp.com/">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="52" height="52" alt="WhatsApp"/>
+  </a>
+
+</p>
+
+<br/>
+
+<p>
+  <em>"First, solve the problem. Then, write the code."</em>
+  <br/>
+  — John Johnson
+</p>
+
+</div>
+
+<br/>
+
+<!-- ──────────────────────── FOOTER ──────────────────────── -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%"/>
+
+</div>
+
+<!-- ── End of README ── -->
+```
