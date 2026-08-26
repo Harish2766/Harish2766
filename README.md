@@ -35,7 +35,7 @@
 - 💻 &nbsp; Interested in Full-Stack Development & Backend Engineering
 - 🚀 &nbsp; Passionate about building scalable, efficient & elegant software
 - 🧠 &nbsp; Enjoy problem solving, learning new technologies & turning ideas into projects
-- ⚡ &nbsp; Mindset: <code>Learn → Build → Improve → Repeat</code>
+- ⚡ &nbsp; Mindset: <code>*Learn → Build → Improve → Repeat*</code>
 
 <br/>
 
