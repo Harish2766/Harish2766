@@ -7,14 +7,14 @@
 
 <!-- ──────────────────────────── HERO SECTION ──────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,25:7C3AED,50:A855F7,75:7C3AED,100:6E40C9&height=220&section=header&text=Hey%20there%20%F0%9F%91%8B%20I'm%20HARISH%20G%20S&fontSize=36&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Building%20the%20future,%20one%20commit%20at%20a%20time.&descSize=16&descAlignY=55&descColor=e9d5ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,25:7C3AED,50:A855F7,75:7C3AED,100:6E40C9&height=220&section=header&text=Hey%20there%20%F0%9F%91%8B%20I'm%20HARISH%20G%20S&fontSize=36&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&descSize=16&descAlignY=55&descColor=e9d5ff" width="100%" />
 
 <br/>
 
 <!-- Fade Animation -->
 
 <img
-  src="https://raw.githubusercontent.com/Harish2766/Assets/main/namefade.gif"
+  src="https://raw.githubusercontent.com/Harish2766/Assets/main/hero-statements-fade.gif"
   width="760"
   height="100"
   alt="CS Engineering Student | Full-Stack Developer | Backend Enthusiast"
